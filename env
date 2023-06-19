@@ -1,0 +1,2 @@
+# VITE_BACKEND_SERVER="https://private-anon-a595d37b6e-vsg1.apiary-mock.com/api/v1"
+VITE_BACKEND_SERVER="https://vsg-staging.thekirinlab.com/api/v1"
